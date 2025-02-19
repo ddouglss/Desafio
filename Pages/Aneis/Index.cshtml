@@ -5,56 +5,53 @@
     ViewData["Title"] = "Anéis";
 }
 
-<h1>Anéis</h1>
+<div class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1 class="text-primary">📿 Lista de Anéis</h1>
+        <a asp-page="Create" class="btn btn-success"><i class="fas fa-plus"></i> Criar um Anel</a>
+    </div>
 
-<p>
-    <a asp-page="Create">Criar um Anel</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Ring[0].Nome)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Ring[0].Poder)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Ring[0].Portador)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Ring[0].ForjadoPor)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Ring[0].Imagem)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model.Ring) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nome)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Poder)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Portador)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ForjadoPor)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Imagem)
-            </td>
-            <td>
-                <a asp-page="./Edit" asp-route-id="@item.Id">Atualizar</a> |
-                <a asp-page="./Details" asp-route-id="@item.Id">Detalhes</a> |
-                <a asp-page="./Delete" asp-route-id="@item.Id">Excluir</a>
-            </td>
-        </tr>
+    <div class="table-responsive">
+        <table class="table table-hover shadow-sm rounded">
+            <thead class="table-dark text-center">
+                <tr>
+                    <th>Nome</th>
+                    <th>Poder</th>
+                    <th>Portador</th>
+                    <th>Forjado Por</th>
+                    <th>Imagem</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody class="text-center">
+                @foreach (var item in Model.Ring)
+                {
+                    <tr>
+                        <td>@item.Nome</td>
+                        <td>@item.Poder</td>
+                        <td>@item.Portador</td>
+                        <td>@item.ForjadoPor</td>
+                        <td>
+                            <img src="/img/anel1.png" alt="Imagem do Anel" class="img-thumbnail" style="width: 50px; height: 50px;">
+                        </td>
+                        <td>
+                            <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">
+                                <i class="fas fa-edit"></i> Atualizar
+                            </a>
+                            <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">
+                                <i class="fas fa-info-circle"></i> Detalhes
+                            </a>
+                            <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">
+                                <i class="fas fa-trash"></i> Excluir
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://kit.fontawesome.com/your-fontawesome-key.js" crossorigin="anonymous"></script>
 }
-    </tbody>
-</table>

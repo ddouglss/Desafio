@@ -11,9 +11,10 @@ namespace AppTeste.Pages
         private readonly AppTesteContext _context;
 
 
-        public IList<Ring> Rings { get; set; } = new List<Ring>();
+        public IList<Ring> Rings { get; set; } = new List<Ring>();/*Listagem de produto*/
 
         [BindProperty]
+        
         public Ring Ring { get; set; } = new Ring {
             Poder = "",
             Nome = "",
@@ -21,12 +22,12 @@ namespace AppTeste.Pages
             Imagem = "Anéis"
         };
 
-        public IndexModel(ILogger<IndexModel> logger, AppTesteContext context) {
+        public IndexModel(ILogger<IndexModel> logger, AppTesteContext context) /*injeção de dependência*/ {
             _logger = logger;
             _context = context;
         }
 
-        public async Task OnGetAsync() {
+        public async Task OnGetAsync()  {
             Rings = await _context.Ring.ToListAsync();
         }
         

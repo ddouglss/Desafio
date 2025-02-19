@@ -1,7 +1,6 @@
 ﻿using AppTeste.Data;
 using AppTeste.Models;
-using System.Collections.Generic;
-using System.Linq;
+
 
 public class RingService {
     private readonly AppTesteContext _context;

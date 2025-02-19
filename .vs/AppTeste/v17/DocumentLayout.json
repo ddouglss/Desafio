@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5707E91C-FBE4-48DD-9FDF-466F5DFAE70B}|AppTeste.csproj|c:\\users\\ddoug\\source\\repos\\appteste\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5707E91C-FBE4-48DD-9FDF-466F5DFAE70B}|AppTeste.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5707E91C-FBE4-48DD-9FDF-466F5DFAE70B}|AppTeste.csproj|c:\\users\\ddoug\\source\\repos\\appteste\\pages\\aneis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5707E91C-FBE4-48DD-9FDF-466F5DFAE70B}|AppTeste.csproj|solutionrelative:pages\\aneis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5707E91C-FBE4-48DD-9FDF-466F5DFAE70B}|AppTeste.csproj|c:\\users\\ddoug\\source\\repos\\appteste\\pages\\aneis\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5707E91C-FBE4-48DD-9FDF-466F5DFAE70B}|AppTeste.csproj|solutionrelative:pages\\aneis\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5707E91C-FBE4-48DD-9FDF-466F5DFAE70B}|AppTeste.csproj|c:\\users\\ddoug\\source\\repos\\appteste\\pages\\aneis\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5707E91C-FBE4-48DD-9FDF-466F5DFAE70B}|AppTeste.csproj|solutionrelative:pages\\aneis\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5707E91C-FBE4-48DD-9FDF-466F5DFAE70B}|AppTeste.csproj|c:\\users\\ddoug\\source\\repos\\appteste\\pages\\aneis\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5707E91C-FBE4-48DD-9FDF-466F5DFAE70B}|AppTeste.csproj|solutionrelative:pages\\aneis\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5707E91C-FBE4-48DD-9FDF-466F5DFAE70B}|AppTeste.csproj|c:\\users\\ddoug\\source\\repos\\appteste\\services\\ringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5707E91C-FBE4-48DD-9FDF-466F5DFAE70B}|AppTeste.csproj|solutionrelative:services\\ringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5707E91C-FBE4-48DD-9FDF-466F5DFAE70B}|AppTeste.csproj|c:\\users\\ddoug\\source\\repos\\appteste\\pages\\aneis\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5707E91C-FBE4-48DD-9FDF-466F5DFAE70B}|AppTeste.csproj|solutionrelative:pages\\aneis\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\Pages\\Aneis\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Aneis\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\Pages\\Aneis\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Aneis\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T00:11:06.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\Pages\\Aneis\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Aneis\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\Pages\\Aneis\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Aneis\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T00:10:32.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\Pages\\Aneis\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Aneis\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\Pages\\Aneis\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Aneis\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T00:09:56.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\Pages\\Aneis\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Aneis\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\Pages\\Aneis\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Aneis\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T00:03:38.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\Pages\\Aneis\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Aneis\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\Pages\\Aneis\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Aneis\\Create.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T00:01:48.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T00:01:19.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RingService.cs",
+              "DocumentMoniker": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\Services\\RingService.cs",
+              "RelativeDocumentMoniker": "Services\\RingService.cs",
+              "ToolTip": "C:\\Users\\ddoug\\source\\repos\\AppTeste\\Services\\RingService.cs",
+              "RelativeToolTip": "Services\\RingService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:32:54.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
